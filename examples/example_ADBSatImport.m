@@ -29,7 +29,7 @@
 
 ADBSat_path = ADBSat_dynpath;
 
-filename = 'cube.obj'; % Input: Name of the file in /inou/obj_files
+filename = 'debris_test_simplify_tri.obj'; % Input: Name of the file in /inou/obj_files
 
 modIn = fullfile(ADBSat_path,'inou','obj_files',filename);
 [modPath,modName,ext] = fileparts(filename);
